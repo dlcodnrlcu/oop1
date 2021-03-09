@@ -1,2 +1,2 @@
 # oop1
-oriented object programming
+object oriented programming
